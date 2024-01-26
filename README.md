@@ -1,4 +1,4 @@
-#### 👋🏻 Hey there! I'm Dmytro
+### 👋🏻 Hey there! I'm Dmytro
 
 ### 👨🏻‍💻 &nbsp;About Me
 
