@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to create web services using modern technologies.\
-🔭 &nbsp;I’m currently working on https://github.com/Chat-Your-Way/ChatYourWay-App.\ <br>
+🔭 &nbsp;I’m currently working on https://github.com/Chat-Your-Way/ChatYourWay-App <br>
 📫 &nbsp;You can shoot me an email at trohae7@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
